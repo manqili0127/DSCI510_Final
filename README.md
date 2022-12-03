@@ -1,9 +1,10 @@
 # DSCI510_Final
 # Dependencies
-# Installation
 Required libararies:
 
 pandas, pgeocode, requests, time,
+# Installation
+
 # Running the project
 # Methodology
 # Visualization
