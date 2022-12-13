@@ -13,14 +13,5 @@ Note: The data collected is real-time data. If run, the data will be different f
 4) Visualized figures are saved under the “visualization images” folder.
 
 
-# Methodology
-# Visualization
-Air quality index histogram with different categories
+More details can be found in the final report
 
-Air quality level distribution pie chart
-
-Air polutant concentrations box plot
-
-Air pollutants correlation heatmap
-
-# Future Work
